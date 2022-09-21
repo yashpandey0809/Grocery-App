@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.search:mapbox-search-android:1.0.0-beta.28@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3576c4c5793c61c6a3bedba4e3d7f972/transformed/jetified-mapbox-search-android-1.0.0-beta.28/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3576c4c5793c61c6a3bedba4e3d7f972/transformed/jetified-mapbox-search-android-1.0.0-beta.28/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.search/mapbox-search-android/1.0.0-beta.28/e3ab433c2022d7c59d21dae1a9ffe3eb8f106bb4/mapbox-search-android-1.0.0-beta.28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.search/mapbox-search-android/1.0.0-beta.28/70a6afd4a61bedf32d3d79e2dd43e7bdb88b8b02/mapbox-search-android-1.0.0-beta.28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

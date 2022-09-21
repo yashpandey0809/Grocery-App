@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-android-sdk:14.1.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7f34e004205e68a698e7c2f140e2ce22/transformed/jetified-facebook-android-sdk-14.1.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7f34e004205e68a698e7c2f140e2ce22/transformed/jetified-facebook-android-sdk-14.1.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/14.1.1/f2e30c820ee70c3a55cddcc181504936c547cdde/facebook-android-sdk-14.1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/14.1.1/b46630c263deae6b9a8374ed30b31512e0f3f35e/facebook-android-sdk-14.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
